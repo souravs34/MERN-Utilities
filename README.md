@@ -21,9 +21,9 @@ All DSA
 
 
 
-### Github Remaining Tasks
+### Remaining Tasks
 
-### 1. Udemy Maxmilian React Course.
+### 1. Maxmilian.
 
 - [ ] Section-9
 - [ ] Section-10
@@ -43,7 +43,7 @@ All DSA
 - [ ] Section-29
 
 
-### 2. Udemy Colt Steele Course.
+### 2. Colt Steele
 
 
 
