@@ -21,51 +21,5 @@ All DSA
 
 
 
-### Remaining Tasks
-
-### 1. Maxmilian.
-
-- [ ] Section-9
-- [ ] Section-10
-- [ ] Section-12
-- [ ] Section-13
-- [ ] Section-15
-- [ ] Section-16
-- [ ] Section-17
-- [ ] Section-20
-- [ ] Section-22
-- [ ] Section-23
-- [ ] Section-24
-- [ ] Section-25
-- [ ] Section-26
-- [ ] Section-27
-- [ ] Section-28
-- [ ] Section-29
-
-
-### 2. Colt Steele
-
-
-
-<!-- - [ ] Section-9
-- [ ] Section-10
-- [ ] Section-12
-- [ ] Section-13
-- [ ] Section-15
-- [ ] Section-16
-- [ ] Section-17
-- [ ] Section-20
-- [ ] Section-22
-- [ ] Section-23
-- [ ] Section-24
-- [ ] Section-25
-- [ ] Section-26
-- [ ] Section-27
-- [ ] Section-28
-- [ ] Section-29
- -->
-
-
-
 
 
