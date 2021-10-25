@@ -17,6 +17,8 @@ All DSA
   
 [Coding Interview Patterns](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 
+[Data Science Roadmap](https://github.com/codebasics/py/blob/master/TechTopics/DataScienceRoadMap2020/data_science_roadmap_2020.md)
+
 
 
 
